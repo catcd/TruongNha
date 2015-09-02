@@ -1,6 +1,6 @@
 /**
  * starter: Can Duy Cat
- * owner: Can Duy Cat
+ * owner: Nguyen Minh Trang
  * last update: 02-Sep-2015
  * type: class detail controller
  */
